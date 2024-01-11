@@ -60,21 +60,21 @@ a {
     }
     .hero{
         display: block;
-        width: 95%;
+        width:80%;
         padding:0;
-        margin:5px;
+        margin:0px;
     }
     h1{
         font-size: xx-large;
-        width: 80%;
+
     }
     h2{
         font-size: x-large;
-        width: 80%;
+
     }
     h3{
         font-size:large;
-        width: 80%;
+
     }
     .boxes{
         margin:0px;
